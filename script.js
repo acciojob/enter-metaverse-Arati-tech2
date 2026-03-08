@@ -1,2 +1,5 @@
- let text = document.getElementById("status");
+function changeText() {
+	let text = document.getElementById("status");
     text.innerHTML = "<h1>Entered Metaverse</h1>";
+}
+
